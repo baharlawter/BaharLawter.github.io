@@ -1,0 +1,18 @@
+
+title: Bahar's Portfolio
+description: Showcasing my projects, skills, and creative work
+baseurl: "" 
+url: "https://baharlawter.github.io/" 
+
+theme: jekyll-theme-minimal
+
+github_username: BaharLawter
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
