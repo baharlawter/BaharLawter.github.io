@@ -1,3 +1,3 @@
 d# BaharLawter.github.io
 
-this is just tesint 
+This is a test.
