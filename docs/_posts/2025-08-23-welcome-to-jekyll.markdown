@@ -1,23 +1,25 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-08-23 08:14:56 -0500
-categories: jekyll update
+title: "Bahar Lawter's Portfolio"
+date: 2025-08-23 08:14:56 -0500
+categories: portfolio update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+<img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80" alt="Welcome" width="350"/>
 
-`YEAR-MONTH-DAY-title.MARKUP`
+# Welcome!
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I'm **Bahar Lawter**, a former school teacher now pursuing a career as a full-stack developer. This site is where I share my journey, showcase my projects, and connect with others passionate about technology and learning.
 
-Jekyll also offers powerful support for code snippets:
+Here you'll find:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
+- My latest projects and achievements
+- Updates on my learning progress and new skills
+- Ways to connect and collaborate
+
+Feel free to explore my [Projects](/project-work/), view my [Resume](/resume/), or [Contact Me](/contact/) if you'd like to connect!
+
+Thanks for visiting and supporting my journey!
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
@@ -25,5 +27,5 @@ print_hi('Tom')
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

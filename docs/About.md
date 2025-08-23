@@ -1,8 +1,12 @@
+---
 layout: page
-title: "About Me"
-permalink: /about
+title: "About"
+permalink: /about/
+---
 
-# About Me
+<img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80" alt="About Me" width="80" style="vertical-align:middle; margin-bottom:8px;"/>
+
+# About
 
 Hi there! I'm **Bahar Lawter**, a former school teacher turned aspiring full-stack developer. After years of nurturing young minds in the classroom, I decided to take a leap into the world of technology—where creativity, logic, and lifelong learning collide.
 
@@ -10,12 +14,13 @@ I live in **Overland Park, Kansas** with my amazing husband and our three energe
 
 Currently, I'm enrolled in a full-stack software development program, where I'm diving deep into everything from HTML and CSS to JavaScript, React, and backend frameworks. My goal is to build intuitive, accessible applications that make life easier and more enjoyable for real people.
 
-When I'm not debugging code or helping with homework, you’ll probably find me binge-watching cheesy sitcoms from the '90s and early 2000s. Think *Friends*, *Everybody Loves Raymond*, *two and a half men*, and *The Office*. Nostalgia is my comfort zone.
+When I'm not debugging code or helping with homework, you’ll probably find me binge-watching cheesy sitcoms from the '90s and early 2000s. Think _Friends_, _Everybody Loves Raymond_, _Two and a Half Men_, and _The Office_. Nostalgia is my comfort zone.
 
 ### What I Bring to the Table
+
 - A teacher’s patience and communication skills
 - A parent’s multitasking superpowers
 - A developer’s curiosity and drive to build
 - A sitcom lover’s sense of humor 😄
 
-Thanks for stopping by! Feel free to check out my [projects](./projects.md), connect with me on [LinkedIn](https://www.linkedin.com), or drop me a message—I'd love to hear from you.
+Thanks for stopping by! Feel free to check out my [projects](./ProjectWork.md), connect with me on [LinkedIn](https://www.linkedin.com/in/baharlawter), or drop me a message—I'd love to hear from you.
