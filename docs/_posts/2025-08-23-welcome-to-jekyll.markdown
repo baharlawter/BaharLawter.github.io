@@ -1,11 +1,13 @@
 ---
-layout: post
+layout:
 title: "Bahar Lawter's Portfolio"
 date: 2025-08-23 08:14:56 -0500
 categories: portfolio update
 ---
 
-<img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80" alt="Welcome" width="350"/>
+<div style="text-align:center; margin-bottom:20px;">
+  <img src="/assets/Bahar.svg" alt="About Me" width="120" style="border-radius:50%; box-shadow:0 2px 8px rgba(0,0,0,0.15);"/>
+</div>
 
 # Welcome!
 
