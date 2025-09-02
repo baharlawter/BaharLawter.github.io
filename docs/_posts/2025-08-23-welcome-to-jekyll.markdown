@@ -1,29 +1,76 @@
 ---
 layout: post
-title: "Welcome to My Portfolio!"
+title: "From Classroom to Code: My Journey"
 date: 2025-08-23 08:14:56 -0500
 categories: update
 ---
 
-Welcome to my portfolio site! I'm Bahar Lawter, a former educator with over 10 years of experience who has transitioned into software engineering.
+<style>
+.blog-post-header {
+  font-size: 2em;
+  font-weight: bold;
+  color: #1a7f8e;
+  margin-bottom: 0.5em;
+}
+.blog-intro {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+  color: #2d3e50;
+}
+.blog-section-title {
+  font-size: 1.1em;
+  color: #1a7f8e;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.2em;
+}
+.blog-highlight {
+  background: #f7f7fa;
+  border-left: 4px solid #1a7f8e;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 6px;
+}
+</style>
 
-This blog will share my journey from teaching math to building software, including insights from my studies, projects, and career growth. I’m passionate about problem-solving, lifelong learning, and creating technology that helps others.
+<span class="blog-post-header">From Classroom to Code: My Journey</span>
 
-Stay tuned for updates on my progress, tips for career changers, and stories from my experience in both education and tech.
+<div class="blog-intro">
+Hello! I'm Bahar Lawter, a former educator with over a decade of teaching experience, now on an exciting path to becoming a software engineer.
+</div>
 
-Thank you for visiting!
-Jekyll also offers powerful support for code snippets:
+<span class="blog-section-title">Why I Made the Change</span>
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+For years, I taught mathematics and loved helping students discover the joy of problem-solving. But I wanted to challenge myself in new ways and build solutions that reach beyond the classroom. That's when I decided to transition into tech.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<span class="blog-section-title">Learning at LaunchCode</span>
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<div class="blog-highlight">
+Currently, I'm a student at <strong>LaunchCode</strong>, where I'm learning a wide range of coding skills and modern technologies. Every day brings new challenges, from building web apps to collaborating on group projects. The supportive community and hands-on curriculum have made my journey both rewarding and inspiring.
+</div>
+
+<span class="blog-section-title">What I'm Learning</span>
+
+- JavaScript, Java, HTML, CSS, SQL, React
+- Spring Boot and MVC
+- Git, GitHub, Netlify, VS Code, IntelliJ IDEA
+- Responsive design, API integration, dynamic routing, unit testing
+- Cloud & DevOps tools: Azure DevOps, GitHub Actions, Netlify, Trello
+
+<span class="blog-section-title">My Goals</span>
+
+I’m passionate about using technology to solve real-world problems and help others. My goal is to become a well-rounded software engineer, contribute to meaningful projects, and keep growing as a lifelong learner.
+
+<span class="blog-section-title">Advice for Career Changers</span>
+
+If you’re thinking about switching careers, don’t be afraid to start! Leverage your existing strengths, stay curious, and embrace every learning opportunity. The tech world is full of possibilities.
+
+<span class="blog-section-title">Let’s Connect!</span>
+
+Feel free to reach out if you want to chat about coding, education, or career transitions.  
+You can find me on [LinkedIn](https://www.linkedin.com/in/bahar-lawter-275494290/) or [email](mailto:baharlawter@example.com).
+
+---
+
+Thank you for reading my story!

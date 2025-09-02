@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bahar Lawter Portfolio
+title: Portfolio
 email: baharlawter@example.com
 description: >-
   Portfolio site for Bahar Lawter, former educator with 10+ years experience, now software engineer.

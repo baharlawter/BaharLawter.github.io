@@ -8,8 +8,7 @@ permalink: /about/
 
 <div class="about-photo">
   <img src="/assets/headshot.png" alt="Alt text" style="max-width: 100%;" />
-
-  </div>
+</div>
 
 <style>
 .about-section {
@@ -17,14 +16,23 @@ permalink: /about/
   flex-wrap: wrap;
   margin-bottom: 2em;
   align-items: center;
+  background: #f7f7fa;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  padding: 1.5em;
 }
 .about-section img {
   max-width: 300px;
-  border-radius: 8px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  margin: 0.5em 0;
 }
 .about-text {
   flex: 1;
-  padding: 1em;
+  padding: 1.5em;
+  font-size: 1.08em;
+  color: #2d3e50;
+  line-height: 1.7;
 }
 .about-photo {
   flex: 1;
@@ -32,6 +40,25 @@ permalink: /about/
 }
 .reverse {
   flex-direction: row-reverse;
+}
+.about-title {
+  font-size: 2em;
+  font-weight: 700;
+  color: #1a7f8e;
+  margin-bottom: 0.5em;
+}
+.about-section-title {
+  font-size: 1.3em;
+  color: #1a7f8e;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.2em;
+}
+hr {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 2em 0;
 }
 </style>
 
