@@ -52,11 +52,10 @@ Currently, I'm a student at <strong>LaunchCode</strong>, where I'm learning a wi
 
 <span class="blog-section-title">What I'm Learning</span>
 
-- JavaScript, Java, HTML, CSS, SQL, React
+- JavaScript, Java, HTML, CSS, MySQL, React
 - Spring Boot and MVC
-- Git, GitHub, Netlify, VS Code, IntelliJ IDEA
-- Responsive design, API integration, dynamic routing, unit testing
-- Cloud & DevOps tools: Azure DevOps, GitHub Actions, Netlify, Trello
+- Git, GitHub, Netlify, VS Code, IntelliJ IDEA,Trello, MySql Workbench, GitHub Pages, Postman
+- Responsive Design, API Integration, Dynamic Routing, Unit Testing
 
 <span class="blog-section-title">My Goals</span>
 
