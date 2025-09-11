@@ -67,7 +67,7 @@ If you’re thinking about switching careers, don’t be afraid to start! Levera
 
 <span class="blog-section-title">Let’s Connect!</span>
 
-Feel free to reach out if you want to chat about coding, education, or career transitions.  
+Feel free to reach out if you want to chat about coding, education, or my career transitions.  
 You can find me on [LinkedIn](https://www.linkedin.com/in/bahar-lawter-275494290/) or [email](mailto:baharlawter@example.com).
 
 ---
