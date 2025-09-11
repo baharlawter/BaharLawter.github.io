@@ -78,13 +78,12 @@ My journey began in the classroom, where I developed a passion for problem-solvi
 JavaScript, Java, HTML, SQL, CSS, React, Spring Boot and MVC, MarkDown, XML
 <br><br>
 <strong>Libraries & Tools:</strong><br>
-React Router, Git/GitHub, Netlify, IntelliJ IDEA, VS Code, MySQL Workbench, Postman API
+React Router, Git/GitHub, Netlify, IntelliJ IDEA, VS Code, MySQL Workbench, Postman API,Trello
 <br><br>
 <strong>Concepts:</strong><br>
 Responsive design, state management, API integration, dynamic routing, unit testing, exception handling
 <br><br>
-<strong>Cloud & DevOps Tools:</strong><br>
-Azure DevOps (Repos, Pipelines, Boards), GitHub Actions, Netlify, Trello
+
 </div>
 
 <span class="home-section-title">Connect</span>
