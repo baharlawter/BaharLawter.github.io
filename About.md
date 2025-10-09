@@ -10,7 +10,7 @@ I live in **Overland Park, Kansas** with my amazing husband and our three energe
 
 Currently, I'm enrolled in a full-stack software development program, where I'm diving deep into everything from HTML and CSS to JavaScript, React, and backend frameworks. My goal is to build intuitive, accessible applications that make life easier and more enjoyable for real people.
 
-When I'm not debugging code or helping with homework, you’ll probably find me binge-watching cheesy sitcoms from the '90s and early 2000s. Think *Friends*, *Everybody Loves Raymond*, *two and a half men*, and *The Office*. Nostalgia is my comfort zone.
+When I'm not debugging code or helping with homework, you’ll probably find me binge-watching cheesy sitcoms from the '90s and early 2000s. Think *Friends*, *Everybody Loves Raymond*, *two and a half men*, and *The Office*. 
 
 ### What I Bring to the Table
 - A teacher’s patience and communication skills
