@@ -23,25 +23,9 @@ Former educator transitioning to software engineering. Combines analytical probl
 
 **Programming Languages:**
 
-- JavaScript
-- Java
-- HTML & CSS
-- SQL
-- TypeScript
-
-**Frameworks & Libraries:**
-
-- Spring Boot
-- React
-- Angular(Learning)
-- MySQL
-
-**Tools:**
-
-- VS Code
-- IntelliJ IDEA
-- Command Line Interface
-- Version Control (Git)
+- Languages: JavaScript,HTML & CSS,Java,MySql, MarkDown TypeScript(currenlty learning)
+- Frameworks/Libraries: Spring Boot, React, Angular(Learning)
+- Tools: IntellJ,VS code, GitHub, Git, GitHub Pages
 
 ---
 
