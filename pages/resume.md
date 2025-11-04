@@ -8,14 +8,14 @@ permalink: /resume/
 
 **Software Engineer (In Training)**
 
-📧 baharlawter@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/bahar-lawter-275494290/) | 💻 [GitHub](https://github.com/baharlawter)  
-📍 Overland Park, Kansas
+baharlawter@gmail.com | [LinkedIn](https://www.linkedin.com/in/bahar-lawter-275494290/) | [GitHub](https://github.com/baharlawter)  
+Overland Park, Kansas
 
 ---
 
 ## Professional Summary
 
-Former mathematics educator with 10+ years of experience transitioning to software engineering. Combines analytical problem-solving skills with a passion for technology and learning. Currently pursuing full-stack development through LaunchCode's comprehensive software engineering program.
+Former educator transitioning to software engineering. Combines analytical problem-solving skills with a passion for technology and learning. Currently pursuing full-stack development through LaunchCode's comprehensive software engineering program.
 
 ---
 
@@ -23,18 +23,18 @@ Former mathematics educator with 10+ years of experience transitioning to softwa
 
 **Programming Languages:**
 
-- JavaScript (ES6+)
+- JavaScript
 - Java
-- HTML5 & CSS3
+- HTML & CSS
 - SQL
+- TypeScript
 
 **Frameworks & Technologies:**
 
 - Spring Boot
-- React (Learning)
-- Git & GitHub
-- SQL Server
-- Responsive Web Design
+- React
+- React(Learning)
+- MySQL
 
 **Development Tools:**
 
@@ -48,58 +48,39 @@ Former mathematics educator with 10+ years of experience transitioning to softwa
 ## Education
 
 **LaunchCode Software Engineering Program**  
-_Current - 2024_
+Apr 2025-Nov 2025
 
 - Full-stack web development
 - Object-oriented programming with Java
 - Database design and management
-- Agile development methodologies
 
-**Master's Degree in Mathematics**  
-_[University Name] - [Year]_
+**Master's in Science**  
+Western Governors University
 
-- Advanced mathematical analysis and problem-solving
-- Statistical analysis and data interpretation
-- Research methodology
-
-**Bachelor's Degree in Mathematics Education**  
-_[University Name] - [Year]_
+**Bachelor's in Education**  
+Western Governors University
 
 - Educational theory and practice
 - Curriculum development
-- Mathematical pedagogy
 
 ---
 
 ## Professional Experience
 
-**Mathematics Teacher**  
-_[School District] - [Years]_
+**Teacher — Kansas City Public Schools, Kansas City, MO**
 
-- Developed and implemented comprehensive mathematics curricula for diverse student populations
-- Utilized data analysis to track student progress and adjust teaching strategies
-- Collaborated with cross-functional teams to improve educational outcomes
-- Mentored new teachers and led professional development workshops
-- Integrated technology tools to enhance learning experiences
-
-**Key Achievements:**
-
-- Improved student test scores by [X]% through innovative teaching methods
-- Developed digital learning resources used district-wide
-- Led curriculum committee for mathematics department
-- Recognized for excellence in education [specific awards if any]
+- Analyzed student performance data to identify learning gaps and guide instruction
+- Used digital tools to track outcomes and design targeted academic interventions
 
 ---
 
 ## Projects
 
-**Portfolio Website** _(Current)_
+**Portfolio Website**
 
-- Personal portfolio built with Jekyll, HTML, CSS, and JavaScript
+- Personal portfolio built with Jekyll, and Markdown language
 - Responsive design showcasing professional journey and technical skills
 - Deployed on GitHub Pages
-
-\*_[Additional projects will be added as completed during the program]_
 
 ---
 
@@ -110,7 +91,6 @@ _[School District] - [Years]_
 - **Adaptability:** Successfully transitioning careers demonstrates flexibility and growth mindset
 - **Team Collaboration:** Experience working with diverse teams in educational settings
 - **Continuous Learning:** Committed to staying current with technology trends and best practices
-- **Project Management:** Experience managing classroom initiatives and educational programs
 
 ---
 
@@ -118,24 +98,19 @@ _[School District] - [Years]_
 
 - **English:** Native proficiency
 - **Turkmen:** Native proficiency
-- **[Other languages if applicable]**
+- **Turkish**
 
 ---
 
 ## Professional Development
 
 - LaunchCode Software Engineering Program (Current)
-- [Additional relevant certifications or courses]
-- [Professional development workshops]
 
 ---
 
 ## Volunteer Experience & Community Involvement
 
-- [Any relevant volunteer work]
-- [Community involvement]
-- [Mentoring or tutoring experience]
+- Personal Grant from U.S Embassy for the students who came for low income background
+- Group Grand from U.S Embassy for the Orphanage
 
 ---
-
-_References available upon request_
