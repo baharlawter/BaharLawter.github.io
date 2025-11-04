@@ -13,7 +13,7 @@ Whether you're reaching out for collaboration, networking, or just to say hello 
 ## About Me
 
 **Name:** Bahar Lawter  
-**Profession:** Software Engineer (In Training)  
+**Profession:** Software Engineer (In School)  
 **Location:** Overland Park, Kansas
 
 ---
@@ -29,14 +29,5 @@ Whether you're reaching out for collaboration, networking, or just to say hello 
 ## Let's Connect
 
 Feel free to drop a message anytime. I'm always open to new ideas, meaningful conversations, and exciting opportunities in the tech world.
-
-Whether you want to:
-
-- Discuss potential collaborations
-- Share coding tips and resources
-- Connect for networking opportunities
-- Just say hello!
-
-I'd love to connect with fellow developers, educators, and anyone passionate about technology and learning.
 
 ---

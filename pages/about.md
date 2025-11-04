@@ -68,7 +68,7 @@ permalink: /about/
 
 <div class="about-section">
   <div class="about-text">
-   Former educator turned software engineer with a passion for building inclusive, user-focused applications. Through LaunchCode, experienced in Java, Java Script,  React, MySQL, and Spring Boot, with a strong foundation in troubleshooting, testing, and collaborative development. Adept at translating complex requirements into clean, maintainable code. Currently expanding expertise in TypScript and Angular through Udemy. . 
+   Former educator turned software engineer with a passion for building inclusive, user-focused applications. Through LaunchCode, experienced in Java, Java Script,  React, MySQL, and Spring Boot, with a strong foundation in troubleshooting, testing, and collaborative development. Adapt at translating complex requirements into clean, maintainable code. Currently expanding expertise in TypScript and Angular through Udemy. . 
     
     My technical toolkit includes:
     -  HTML/CSS
@@ -131,5 +131,6 @@ permalink: /about/
 - Adaptibility
 - Curiosity
 - Time Managament
+- Ambition
 
 Thanks for stopping by! Feel free to check out my projects, connect with me on [LinkedIn](https://www.linkedin.com/in/bahar-lawter-275494290/), or drop me a message—I'd love to hear from you.

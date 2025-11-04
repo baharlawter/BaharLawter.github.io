@@ -68,17 +68,7 @@ permalink: /about/
 
 <div class="about-section">
   <div class="about-text">
-   Former educator turned software engineer with a passion for building inclusive, user-focused applications. Through LaunchCode, experienced in Java, Java Script,  React, MySQL, and Spring Boot, with a strong foundation in troubleshooting, testing, and collaborative development. Adept at translating complex requirements into clean, maintainable code. Currently expanding expertise in TypScript and Angular through Udemy.
-
-.
-
-    My technical toolkit includes:
-    - JavaScript, HTML/CSS
-    - Java Spring Boot
-    - React
-    - SQL Server,MySQL
-    - Git & GitHub
-    - Angular & TypeScript(currenly learning)
+   Former educator turned software engineer with a passion for building inclusive, user-focused applications. Through LaunchCode, experienced in Java, Java Script,  React, MySQL, and Spring Boot, with a strong foundation in troubleshooting, testing, and collaborative development. Adept at translating complex requirements into clean, maintainable code. Currently expanding expertise in TypScript and Angular through Udemy.My technical toolkit includes:JavaScript, HTML/CSS, Java Spring Boot, React,SQL Server,MySQL, Git & GitHub, Angular & TypeScript(currenly learning)
 
   </div>
 </div>
