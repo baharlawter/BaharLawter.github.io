@@ -4,9 +4,67 @@ title: "Resume"
 permalink: /resume/
 ---
 
-# Bahar Lawter
+<div class="resume-header">
+  <div class="resume-info">
+    <h1>Bahar Lawter</h1>
+    <p class="title"><strong>Software Engineer (In Training)</strong></p>
+  </div>
+  <div class="resume-photo">
+    <img src="/assets/headshot.png" alt="Bahar Lawter" />
+  </div>
+</div>
 
-**Software Engineer (In Training)**
+<style>
+  .resume-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+  }
+  
+  .resume-info {
+    flex: 1;
+    min-width: 250px;
+  }
+  
+  .resume-info h1 {
+    margin: 0 0 0.5rem 0;
+    font-size: 2.2rem;
+  }
+  
+  .resume-info .title {
+    margin: 0;
+    font-size: 1.1rem;
+  }
+  
+  .resume-photo {
+    flex-shrink: 0;
+    margin-left: 2rem;
+  }
+  
+  .resume-photo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #1a7f8e;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  }
+  
+  @media (max-width: 768px) {
+    .resume-header {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    
+    .resume-photo {
+      margin-left: 0;
+      margin-top: 1rem;
+    }
+  }
+</style>
 
 📧 baharlawter@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/bahar-lawter-275494290/) | 💻 [GitHub](https://github.com/baharlawter)  
 📍 Overland Park, Kansas
