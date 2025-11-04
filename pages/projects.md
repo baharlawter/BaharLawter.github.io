@@ -19,17 +19,23 @@ Welcome to my project showcase! Here you'll find a collection of my work as I jo
 
 **Technologies:** HTML, CSS, JavaScript, Java, MySql, Spring Boot, React, public APIs, Netlify, GitHub
 
+---
+
 ### ToDo List App — FrontEnd App
 
 **Technologies:** TypeScript, Angular, VS Code, GitHub
 **Description:**Implemented Angular Components and two way binding  
 **Status:** Currenty Expanding
 
+---
+
 ### Financial App-FrontEnd, Currently Working
 
 - Interactive financial calculator and blog platform
   Integrated Routing
   **Technologies:** TypeScript, Angular, VS Code, GitHub
+
+---
 
 **Portfolio-Full Stack, Deployed**
 
