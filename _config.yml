@@ -1,12 +1,24 @@
+title: Portfolio
+email: baharlawter@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Portfolio site for Bahar Lawter, former educator with 10+ years experience, now software engineer.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://baharlawter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: bahar-lawter-275494290
+github_username: baharlawter
 
-title: Bahar's Portfolio
-description: Showcasing my projects, skills, and creative work
-baseurl: "" 
-url: "https://baharlawter.github.io/" 
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
-theme: jekyll-theme-minimal
-
-github_username: BaharLawter
+# Navigation menu
+header_pages:
+  - index.markdown
+  - about.markdown
+  - projects.markdown
+  - resume.markdown
+  - contact.markdown
 
 markdown: kramdown
 highlighter: rouge
