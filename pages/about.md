@@ -7,7 +7,7 @@ permalink: /about/
 # Bahar Lawter
 
 <div class="about-photo">
-  <img src="/assets/headshot.png" alt="Bahar Lawter headshot" style="max-width: 100%; border-radius: 12px;" />
+  <img src="/assets/headshot.png" alt="Bahar Lawter headshot" style="max-width: 50%; border-radius: 12px;" />
 </div>
 
 <style>
