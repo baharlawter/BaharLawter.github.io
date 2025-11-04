@@ -68,16 +68,18 @@ permalink: /about/
 
 <div class="about-section">
   <div class="about-text">
-    I began my professional journey as a math teacher, where I discovered my love for problem-solving and helping others learn. Today, I'm pursuing a new path as a software engineer through LaunchCode — combining my analytical skills with a passion for building. 
-    
+   Former educator turned software engineer with a passion for building inclusive, user-focused applications. Through LaunchCode, experienced in Java, Java Script,  React, MySQL, and Spring Boot, with a strong foundation in troubleshooting, testing, and collaborative development. Adept at translating complex requirements into clean, maintainable code. Currently expanding expertise in TypScript and Angular through Udemy.
+
+.
+
     My technical toolkit includes:
     - JavaScript, HTML/CSS
     - Java Spring Boot
     - React
-    - SQL Server
+    - SQL Server,MySQL
     - Git & GitHub
-    
-    I'm excited to grow in this field and create tools that make life easier and more connected.
+    - Angular & TypeScript(currenly learning)
+
   </div>
 </div>
 
@@ -100,9 +102,9 @@ permalink: /about/
 
 <div class="about-section">
   <div class="about-text">
-    My academic roots are in mathematics, which taught me discipline, logic, and the beauty of patterns.
+    
     <br><br>
-    Now, I'm expanding those foundations through LaunchCode's software engineering program — diving deep into modern technologies and collaborative development. Every day brings new challenges and new victories.
+   I am currently in  LaunchCode's program where I learned builing full stack application. I am graduating Nov 2025 
   </div>
   <div class="about-photo">
     <img src="https://plus.unsplash.com/premium_photo-1682974403683-591557aa631b?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Graduation" />
