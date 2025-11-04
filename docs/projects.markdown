@@ -12,47 +12,53 @@ Welcome to my project showcase! Here you'll find a collection of my work as I jo
 
 ## Featured Projects
 
-### Project 1: [Coming Soon]
+### Project 1:Healthy Lifestyle App —Full Stack
 
-**Technologies:** JavaScript, HTML, CSS  
-**Description:** Currently working on an exciting web application that showcases my frontend development skills.  
-**Status:** In Development
+- Integrated public API and Google Gemini
+- Built Api endpoints and Database
 
-### Project 2: [Coming Soon]
+**Technologies:**
 
-**Technologies:** Java, Spring Boot  
-**Description:** A backend application demonstrating my understanding of server-side development and API creation.  
-**Status:** Planning Phase
+- HTML, CSS, JavaScript, Java, MySql, Spring Boot, React, public APIs, Netlify, GitHub
 
-### Project 3: [Coming Soon]
+### Project 2: ToDo List App — FrontEnd App
 
-**Technologies:** React, Node.js  
-**Description:** A full-stack application that combines my frontend and backend skills.  
-**Status:** Concept Stage
+**Technologies:**
+
+- TypeScript, Angular, VS Code, GitHub
+  **Description:**Implemented Angular Components and two way binding  
+  **Status:** Currenty Expanding
+
+### Project 3: Financial App-FrontEnd
+
+**Technologies:**
+
+- TypeScript, Angular, VS Code, GitHub
+  **Description:**
+- Interactive financial calculator and blog platform
+- Integrated Routing
+
+**Status:** Currently Expanding
+
+## Project 4:Portfolio-Full Stack, Deployed
+
+- Designed multi paged application, consistent routing
+- Automation of deployment
+  **Technologies:** MarkDown, GitHub Pages, GitHub
 
 ---
 
 ## Skills in Action
 
-Through my projects, I'm developing expertise in:
-
-- **Frontend Development:** JavaScript, HTML5, CSS3, React
-- **Backend Development:** Java, Spring Boot, SQL Server
-- **Version Control:** Git, GitHub
-- **Problem Solving:** Mathematical thinking applied to programming challenges
+- **Frontend Development:** JavaScript, HTML, CSS, TypeScript, React, Angular
+- **Backend Development:** Java, Spring Boot, SQL Server,MyASQL
+- **Version Control:** Git, GitHub Pages, GitHub
 
 ---
 
 ## Learning Journey
 
-As a student in LaunchCode's software engineering program, I'm continuously building and learning. Check back regularly to see my latest projects and progress!
-
-**Current Focus Areas:**
-
-- Web application development
-- Database design and management
-- API development and integration
-- User experience design
+As a student in LaunchCode's software engineering program, I'm continuously building and learning. I am expanding my knowledge taking online courses and reading documentations consistently.
 
 ---
 
