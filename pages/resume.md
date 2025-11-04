@@ -6,7 +6,7 @@ permalink: /resume/
 
 # Bahar Lawter
 
-**Software Engineer (In Training)**
+**Software Engineer (In School)**
 
 baharlawter@gmail.com | [LinkedIn](https://www.linkedin.com/in/bahar-lawter-275494290/) | [GitHub](https://github.com/baharlawter)  
 Overland Park, Kansas
@@ -29,14 +29,14 @@ Former educator transitioning to software engineering. Combines analytical probl
 - SQL
 - TypeScript
 
-**Frameworks & Technologies:**
+**Frameworks & Libraries:**
 
 - Spring Boot
 - React
-- React(Learning)
+- Angular(Learning)
 - MySQL
 
-**Development Tools:**
+**Tools:**
 
 - VS Code
 - IntelliJ IDEA
@@ -51,14 +51,14 @@ Former educator transitioning to software engineering. Combines analytical probl
 Apr 2025-Nov 2025
 
 - Full-stack web development
-- Object-oriented programming with Java
+- Object-oriented programming with
 - Database design and management
 
-**Master's in Science**  
-Western Governors University
+**Master's in Science Western Governors University**
 
-**Bachelor's in Education**  
-Western Governors University
+- Curriculum and Instruction
+
+**Bachelor's in Education Western Governors University**
 
 - Educational theory and practice
 - Curriculum development
@@ -76,11 +76,10 @@ Western Governors University
 
 ## Projects
 
-**Portfolio Website**
-
-- Personal portfolio built with Jekyll, and Markdown language
-- Responsive design showcasing professional journey and technical skills
-- Deployed on GitHub Pages
+**1. Portfolio Website**
+**2. ToDo List App (currenlty expanding)**
+**3.Financial App (currently Expanding)**
+**4.Healthy LifeStyle App**
 
 ---
 
@@ -98,13 +97,13 @@ Western Governors University
 
 - **English:** Native proficiency
 - **Turkmen:** Native proficiency
-- **Turkish**
+- **Turkish** Learned
 
 ---
 
 ## Professional Development
 
-- LaunchCode Software Engineering Program (Current)
+- LaunchCode Software Engineering Program (Nov 2025)
 
 ---
 
