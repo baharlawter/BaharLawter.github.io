@@ -132,7 +132,7 @@ title: "Home"
 
 <div class="updates-section">
   <div class="update-item">
-    <h3>🏃‍♀️ Healthy Lifestyle App — Full Stack</h3>
+    <h3> Healthy Lifestyle App — Full Stack</h3>
     <p>
     - Integrated public API and Google Gemini<br>
     - Built API endpoints and Database<br>
@@ -140,14 +140,14 @@ title: "Home"
   </div>
   
   <div class="update-item">
-    <h3>📝 ToDo List App — Frontend App</h3>
+    <h3> ToDo List App — Frontend App</h3>
     <p>
     - Implemented Angular Components and two-way binding<br>
     - Tech Stack: TypeScript, Angular, VS Code, GitHub</p>
   </div>
   
   <div class="update-item">
-    <h3>💰 Financial App — Frontend</h3>
+    <h3> Financial App — Frontend</h3>
     <p>
     - Interactive financial calculator and blog platform<br>
     - Integrated Routing<br>
