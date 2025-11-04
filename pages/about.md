@@ -35,8 +35,11 @@ permalink: /about/
     line-height: 1.7;
   }
   .about-photo {
-    flex: 1;
-    text-align: center;
+   
+    max-width: 350px;
+    width: 100%;
+    border-radius: 50%;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
   }
   .reverse {
     flex-direction: row-reverse;
